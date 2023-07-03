@@ -11,10 +11,10 @@ public class TestPrimeNumber {
 			}
 		}
 		if(counter == 0) {
-			System.out.println(i+ ": is a prime number ");
+			System.out.println(i+ " : is a prime number ");
 		}
 		else {
-			System.out.println(i+ ": is not a prime number ");
+			System.out.println(i+ " : is not a prime number ");
 		}
 		
 
