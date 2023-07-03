@@ -5,7 +5,7 @@ public class TestPrimeNumber {
 	public static void main(String[] args) {
 		int i = 10;
 		int counter = 0;
-		for(int j = 2 ; j<=4 ;j++) {
+		for(int j = 2 ; j<=i-1 ;j++) {
 			if(i%j == 0) {
 				counter = counter + 1;
 			}
